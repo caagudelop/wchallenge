@@ -1,7 +1,0 @@
-com\principalservice\dto\User.class
-com\principalservice\ppal\WChallengeApplication.class
-com\principalservice\ppal\WChallengeService.class
-com\principalservice\ppal\Constantes.class
-com\principalservice\dto\Fotos.class
-com\principalservice\dto\Album.class
-com\principalservice\util\StringUtil.class
