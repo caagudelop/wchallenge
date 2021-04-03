@@ -18,7 +18,7 @@ public class PermissionApplication {
 	public static void main(String[] args) {
 		SpringApplication app = new SpringApplication(PermissionApplication.class);
         app.setDefaultProperties(Collections
-          .singletonMap("server.port", "8082"));
+          .singletonMap("server.port", "8084"));
         app.run(args);
 	}
 	
