@@ -1,0 +1,5 @@
+com\permissionalbumservice\dto\PermissionAlbum.class
+com\permissionalbumservice\ppal\PermissionApplication.class
+com\permissionalbumservice\ppal\PermissionAlbumService.class
+com\permissionalbumservice\repo\PermissionAlbumRepo.class
+com\permissionalbumservice\repo\PermissionAlbumConfiguration.class
